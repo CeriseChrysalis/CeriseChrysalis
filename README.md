@@ -23,6 +23,6 @@
 
 <div align ="center">
   
-![Akumas](https://komarev.com/ghpvc/?username=CeriseChrysalis&label=AKUMAS.&color=65417C)
+![𝐀𝐊𝐔𝐌𝐀𝐒](https://komarev.com/ghpvc/?username=CeriseChrysalis&label=𝐀𝐊𝐔𝐌𝐀𝐒&color=65417C)
 
 </div>
