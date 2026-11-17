@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**CeriseChrysalis/CeriseChrysalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>testing</h3>
+      <p>Your text or bullet points here.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Right Column</h3>
+      <p>Your text or bullet points here.</p>
+    </td>
+  </tr>
+</table>
+</div>
